@@ -1,0 +1,2 @@
+-keepattributes *Annotation*, InnerClasses
+-keep class com.mohitkumar.docscanner.data.remote.** { *; }
